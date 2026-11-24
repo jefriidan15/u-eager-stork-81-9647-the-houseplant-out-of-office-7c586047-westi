@@ -1,0 +1,1 @@
+{"description":"The funniest out-of-office auto-reply a houseplant would send.","license":"MIT","main":"main.ts","name":"houseplant-out-of-office-westi","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
